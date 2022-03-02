@@ -7,8 +7,8 @@
 
 2. The second program requests all three sides of the triangle as input from the user and calculates the perimeter and area of the triangle.
 
-Perimeter = 2𝑢
+    Perimeter = 2𝑢
 
-𝑢 = (a+b+c) / 2
+    𝑢 = (a+b+c) / 2
 
-Area * Area = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
+    Area * Area = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
