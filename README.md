@@ -1,7 +1,7 @@
 # trianglearea_and_hipotenus
 1. The first program takes the dimensions of the right sides of a right triangle as input from the user and calculates the length of the hypotenuse. 
 
-  a2 + b2 = c2
+    a2 + b2 = c2
 
 
 
